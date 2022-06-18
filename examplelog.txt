@@ -1,0 +1,15 @@
+-  22-06-10 09:28:43,113 LOG [ExampleProcess] Start of log example
+-  22-06-10 09:29:43,344 LOG [ExampleProcess] example
+-  22-06-10 09:30:43,463 LOG [ExampleProcess] example1
+-  22-06-10 09:32:43,172 LOG [ExampleProcess] LogID -> 12345 Example
+-  22-06-10 09:33:43,237 LOG [ExampleProcess] LogID -> 12345 Example
+-  22-06-10 09:34:43,446 LOG [ExampleProcess] LogID -> 12345 Example
+-  22-06-10 09:36:43,155 LOG [ExampleProcess] LogID -> 12345 Example
+-  22-06-10 09:40:43,364 LOG [ExampleProcess] example
+-  22-06-10 09:42:43,213 LOG [ExampleProcess] example2
+-  22-06-10 09:44:43,342 LOG [ExampleProcess] LogID -> 12345 Example
+-  22-06-10 09:47:43,461 LOG [ExampleProcess] Example
+-  22-06-10 09:48:43,261 LOG [ExampleProcess] LogID -> 12345 Example
+-  22-06-10 09:50:43,161 LOG [ExampleProcess] Example2
+-  22-06-10 09:57:43,461 LOG [ExampleProcess] Example
+-  22-06-10 10:28:43,276 LOG [ExampleProcess] End of log example
